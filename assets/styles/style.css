@@ -5,12 +5,17 @@
  }
  
  [class ^="box-"]{
-     width: 140px;
+    display:flex;
+
+      width: 140px;
      height: 140px;
      background: rgb(205, 109, 12);
      border: 2px solid black;
      color: aliceblue;
      font-size: 65px;
      margin-left: 50px;
+
+     justify-content: center;
+     align-items: center;
   
  }
