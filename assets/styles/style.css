@@ -1,0 +1,16 @@
+.container{
+    display:flex;
+    height : 100vh;
+   
+ }
+ 
+ [class ^="box-"]{
+     width: 140px;
+     height: 140px;
+     background: rgb(205, 109, 12);
+     border: 2px solid black;
+     color: aliceblue;
+     font-size: 65px;
+     margin-left: 50px;
+  
+ }
